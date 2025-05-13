@@ -1,5 +1,5 @@
 # Still-Chatting
 This is a project of a online chatting app
 #⚠️⚠️⚠️IMPORTANTE⚠️⚠️⚠️
-Tienes que tener Python x3 instalado para funcionar
-(Versiones incluidas con python portable están por llegar)
+Yo need to have Python x3 installed
+(Versions with python portable are about to arrive)
